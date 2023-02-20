@@ -1,2 +1,5 @@
 # ignore tool versions
 .tool-versions
+
+# ignore all files in test dir
+test/
