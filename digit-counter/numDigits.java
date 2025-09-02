@@ -21,11 +21,11 @@ public class numDigits
 
         if(p == (int)p)
         {
-            System.out.println("YES");
+            System.out.println("YES!");
         }
         else
         {
-            System.out.println("deu errado otario, vai pra faculdade");
+            System.out.println("NO! Wrong answer");
         }
 
         System.out.println(i);
